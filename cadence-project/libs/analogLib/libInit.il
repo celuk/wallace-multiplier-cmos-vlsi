@@ -1,0 +1,6 @@
+load( ddGetObjReadPath( ddGetObj( "analogLib" nil nil "./mtlineProcs.il" )) )
+load( ddGetObjReadPath( ddGetObj( "analogLib" nil nil "./ibisProcs.il" )) )
+load( ddGetObjReadPath( ddGetObj( "analogLib" nil nil "./nportProcs.il" )) )
+load( ddGetObjReadPath( ddGetObj( "analogLib" nil nil "./soiPProcs.il" )) )
+load( ddGetObjReadPath( ddGetObj( "analogLib" nil nil "./vbicProcs.il" )) )
+load( ddGetObjReadPath( ddGetObj( "analogLib" nil nil "./switchparam.il" )) )

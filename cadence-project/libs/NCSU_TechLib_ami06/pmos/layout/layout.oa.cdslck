@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      swmgr
+HostName                       cad.etu.edu.tr
+ProcessIdentifier              15365
+ProcessCreationTime_UTC        1328451228
+ProcessCreationTime_Readable   Sun Feb  5 16:13:48 2012 EET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/share/NCSU/ncsu-cdk-1.6.0.beta/lib/NCSU_TechLib_ami06/pmos/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Sun Feb  5 16:18:06 2012 EET

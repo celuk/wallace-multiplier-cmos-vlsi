@@ -1,0 +1,6 @@
+DEFINE basic ./libs/basic
+DEFINE NCSU_Analog_Parts ./libs/NCSU_Analog_Parts
+DEFINE NCSU_TechLib_ami06 ./libs/NCSU_TechLib_ami06
+DEFINE analogLib ./libs/analogLib
+DEFINE multiplier ./multiplier
+
