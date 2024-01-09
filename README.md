@@ -1,5 +1,5 @@
 # wallace-multiplier-cmos-vlsi
-8bit x 8bit Signed Wallace Tree Multiplier 600nm CMOS VLSI Design (schematic + layout)
+8bit x 8bit Signed Wallace Tree Multiplier 600nm CMOS VLSI Design (verilog + schematic + layout)
 
 Designed in Cadence using open source [NCSU CDK](https://eda.ncsu.edu/ncsu-cdk) 600nm (ami06) process.
 
