@@ -14,3 +14,9 @@ cd cadence-project
 
 virtuoso
 ```
+
+Various screenshots -from gates to multiplier schematic and layouts- can be found in [scrs](scrs) directory.
+
+![schematic](scrs/m8x8_schematic.png)
+![layout](scrs/m8x8_layout.png)
+
