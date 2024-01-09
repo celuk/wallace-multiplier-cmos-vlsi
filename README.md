@@ -7,3 +7,10 @@ Used gate level [rtl code](https://github.com/celuk/Design-of-various-multiplier
 
 The project is described detailed in the report. (in Turkish)
 
+For using project in Cadence Virtuoso:
+
+```bash
+cd cadence-project
+
+virtuoso
+```
